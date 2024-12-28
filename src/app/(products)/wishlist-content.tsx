@@ -21,11 +21,12 @@ export default function WishlistContent() {
     const fetchWishlist = async () => {
         try {
             // Get wishlist items
-            const wishlistRes = await fetch('/api/wishlist', {
-                headers: {
-                    'x-user-id': 'user123' // Temporary user ID
-                }
-            })
+            const wishlistRes = await fetch('/api/wishlist')
+            
+            if (!wishlistRes.ok) {
+                throw new Error('Failed to fetch wishlist')
+            }
+
             const wishlistData = await wishlistRes.json()
 
             // Get all products in one go
