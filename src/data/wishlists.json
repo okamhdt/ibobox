@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "65f2d6a01e85dcc2a8ee7901",
+        "userId": "507f1f77bcf86cd799439011",
+        "productId": "65f2d6a01e85dcc2a8ee78c1"
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee7902", 
+        "userId": "507f1f77bcf86cd799439011",
+        "productId": "65f2d6a01e85dcc2a8ee78ca"
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee7903",
+        "userId": "507f1f77bcf86cd799439012",
+        "productId": "65f2d6a01e85dcc2a8ee78c2"
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee7904",
+        "userId": "507f1f77bcf86cd799439013",
+        "productId": "65f2d6a01e85dcc2a8ee78c3"
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee7905",
+        "userId": "507f1f77bcf86cd799439014",
+        "productId": "65f2d6a01e85dcc2a8ee78cb"
+    }
+] 

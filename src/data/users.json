@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "name": "Jennie Kim",
+        "username": "jennie",
+        "email": "jennie@blackpink.com",
+        "password": "blackpink123"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439012",
+        "name": "Lalisa Manoban",
+        "username": "lisa",
+        "email": "lisa@blackpink.com",
+        "password": "blackpink123"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439013",
+        "name": "Roseanne Park",
+        "username": "rose",
+        "email": "rose@blackpink.com",
+        "password": "blackpink123"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439014",
+        "name": "Kim Jisoo",
+        "username": "jisoo",
+        "email": "jisoo@blackpink.com",
+        "password": "blackpink123"
+    }
+] 

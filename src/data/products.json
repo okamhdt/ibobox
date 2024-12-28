@@ -1,0 +1,167 @@
+[
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c1",
+        "name": "iPhone 15 Pro Max",
+        "slug": "iphone-15-pro-max", 
+        "description": "The most powerful iPhone ever with A17 Pro chip, titanium design, and advanced camera system.",
+        "excerpt": "Experience the ultimate iPhone with revolutionary features.",
+        "price": 21999000,
+        "tags": ["iPhone", "Pro", "5G", "Titanium"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734772722/apple_iphone_15_pro_max_natural_titanium_1_1_2_zvku5c.jpg",
+        "images": [
+            "https://picsum.photos/seed/iphone15promax-1/800/800",
+            "https://picsum.photos/seed/iphone15promax-2/800/800", 
+            "https://picsum.photos/seed/iphone15promax-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c2",
+        "name": "iPhone 15 Pro",
+        "slug": "iphone-15-pro",
+        "description": "Pro camera system, A17 Pro chip, and titanium frame in a perfect 6.1-inch design.",
+        "excerpt": "Pro performance in a compact size.",
+        "price": 18999000,
+        "tags": ["iPhone", "Pro", "5G", "Titanium"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734772722/apple_iphone_15_pro_max_natural_titanium_1_1_2_zvku5c.jpg",
+        "images": [
+            "https://picsum.photos/seed/iphone15pro-1/800/800",
+            "https://picsum.photos/seed/iphone15pro-2/800/800",
+            "https://picsum.photos/seed/iphone15pro-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c3", 
+        "name": "iPhone 15 Plus",
+        "slug": "iphone-15-plus",
+        "description": "Big and powerful with A16 Bionic chip and advanced dual-camera system.",
+        "excerpt": "Bigger screen, bigger possibilities.",
+        "price": 17999000,
+        "tags": ["iPhone", "Plus", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773430/iPhone_15_Pink_PDP_Image_Position-1__GBEN_863e22ef-a1c6-4031-8bf7-1ac9a9c5a086_qaqjah.webp",
+        "images": [
+            "https://picsum.photos/seed/iphone15plus-1/800/800",
+            "https://picsum.photos/seed/iphone15plus-2/800/800",
+            "https://picsum.photos/seed/iphone15plus-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c4",
+        "name": "iPhone 15",
+        "slug": "iphone-15",
+        "description": "A16 Bionic chip, Dynamic Island, and amazing camera capabilities.",
+        "excerpt": "The perfect iPhone for everyone.",
+        "price": 16999000,
+        "tags": ["iPhone", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773577/apple-iphone-15-1_t3rxyt.jpg",
+        "images": [
+            "https://picsum.photos/seed/iphone15-1/800/800",
+            "https://picsum.photos/seed/iphone15-2/800/800",
+            "https://picsum.photos/seed/iphone15-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c5",
+        "name": "iPhone 14 Pro Max",
+        "slug": "iphone-14-pro-max",
+        "description": "Last year's flagship with A16 Bionic and Pro camera system.",
+        "excerpt": "Pro performance that still amazes.",
+        "price": 17999000,
+        "tags": ["iPhone", "Pro", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773494/iphone_14_pro_dmvyzg.jpg",
+        "images": [
+            "https://picsum.photos/seed/iphone14promax-1/800/800",
+            "https://picsum.photos/seed/iphone14promax-2/800/800",
+            "https://picsum.photos/seed/iphone14promax-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c6",
+        "name": "iPhone 14 Pro",
+        "slug": "iphone-14-pro",
+        "description": "Dynamic Island, Always-On display, and powerful A16 Bionic.",
+        "excerpt": "Pro features in perfect size.",
+        "price": 15999000,
+        "tags": ["iPhone", "Pro", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773494/iphone_14_pro_dmvyzg.jpg",
+        "images": [
+            "https://picsum.photos/seed/iphone14pro-1/800/800",
+            "https://picsum.photos/seed/iphone14pro-2/800/800",
+            "https://picsum.photos/seed/iphone14pro-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c7",
+        "name": "iPhone 14 Plus",
+        "slug": "iphone-14-plus",
+        "description": "Big beautiful display with A15 Bionic performance.",
+        "excerpt": "Go big with amazing battery life.",
+        "price": 14999000,
+        "tags": ["iPhone", "Plus", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773664/iphone_14_blue_1_eb805a.webp",
+        "images": [
+            "https://picsum.photos/seed/iphone14plus-1/800/800",
+            "https://picsum.photos/seed/iphone14plus-2/800/800",
+            "https://picsum.photos/seed/iphone14plus-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c8",
+        "name": "iPhone 14",
+        "slug": "iphone-14",
+        "description": "A15 Bionic chip with great camera and battery life.",
+        "excerpt": "A total powerhouse.",
+        "price": 13999000,
+        "tags": ["iPhone", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773664/iphone_14_blue_1_eb805a.webp",
+        "images": [
+            "https://picsum.photos/seed/iphone14-1/800/800",
+            "https://picsum.photos/seed/iphone14-2/800/800",
+            "https://picsum.photos/seed/iphone14-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78c9",
+        "name": "iPhone 13 Pro Max",
+        "slug": "iphone-13",
+        "description": "A15 Bionic chip with amazing camera capabilities.",
+        "excerpt": "Still incredibly capable.",
+        "price": 11999000,
+        "tags": ["iPhone", "5G"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773763/83d22ddf-fe20-43aa-ad9b-e4d3993874dd_qjgmjy.jpg",
+        "images": [
+            "https://picsum.photos/seed/iphone13-1/800/800",
+            "https://picsum.photos/seed/iphone13-2/800/800",
+            "https://picsum.photos/seed/iphone13-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78ca",
+        "name": "iPad Pro",
+        "slug": "ipad-pro",
+        "description": "The most powerful iPad ever with M3 chip, 12.9-inch display, and advanced camera system.",
+        "excerpt": "Pro performance in a compact size.",
+        "price": 21999000,
+        "tags": ["iPad", "Pro", "5G", "Titanium"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734773140/ipadprom211inch_cfhhpi.webp",
+        "images": [
+            "https://picsum.photos/seed/ipadpro-1/800/800",
+            "https://picsum.photos/seed/ipadpro-2/800/800",
+            "https://picsum.photos/seed/ipadpro-3/800/800"
+        ]
+    },
+    {
+        "_id": "65f2d6a01e85dcc2a8ee78cb",
+        "name": "iPad Air",
+        "slug": "ipad-air",
+        "description": "The most powerful iPad ever with M3 chip, 12.9-inch display, and advanced camera system.",
+        "excerpt": "Pro performance in a compact size.",
+        "price": 21999000,
+        "tags": ["iPad", "Pro", "5G", "Titanium"],
+        "thumbnail": "https://res.cloudinary.com/dngm0voif/image/upload/v1734772965/714-7INRdwL._AC_SL1500__hw7kid.jpg",
+        "images": [
+            "https://picsum.photos/seed/ipadair-1/800/800",
+            "https://picsum.photos/seed/ipadair-2/800/800",
+            "https://picsum.photos/seed/ipadair-3/800/800"
+        ]
+    }
+]
