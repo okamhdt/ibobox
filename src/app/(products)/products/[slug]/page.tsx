@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation"
-import { Metadata, ResolvingMetadata } from "next"
+import { Metadata } from "next"
 import AddToWishlist from "@/components/add-to-wishlist"
 import ProductImage from "@/components/product-image"
 import Product, { ProductType } from "@/models/productModel"
@@ -15,13 +15,12 @@ async function getProduct(slug: string): Promise<ProductType | null> {
 }
 
 type Props = {
-    params: Promise<{ slug: string }>
-    searchParams: { [key: string]: string | string[] | undefined }
+    params: Promise<{ slug: string }>,
+    searchParams: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
 export async function generateMetadata(
-    { params }: Props,
-    parent: ResolvingMetadata
+    { params }: Props
 ): Promise<Metadata> {
     const { slug } = await params
     const product = await getProduct(slug)
@@ -33,20 +32,28 @@ export async function generateMetadata(
         }
     }
 
-    console.log("generated metadata", product)
-
     return {
         title: product.name,
         description: product.excerpt,
         openGraph: {
             title: product.name,
             description: product.excerpt,
-            images: product.thumbnail,
+            images: [
+                {
+                    url: product.thumbnail,
+                    width: 800,
+                    height: 600,
+                    alt: product.name
+                }
+            ],
             url: `/products/${slug}`,
+            type: 'website'
         },
-        robots: {
-            index: true,
-            follow: true,
+        twitter: {
+            card: 'summary_large_image',
+            title: product.name,
+            description: product.excerpt,
+            images: [product.thumbnail]
         }
     }
 }
